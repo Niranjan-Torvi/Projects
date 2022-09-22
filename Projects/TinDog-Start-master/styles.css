@@ -1,0 +1,137 @@
+.navbar{
+    margin-bottom: 25px;
+    text-decoration-style: solid;
+}
+
+.navbar-brand{
+    font-weight: bolder;
+    font-size: 2.5rem;
+}
+#title{
+    background-color: #ff4c68;
+}
+
+h1{
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.Container-fluid{
+    padding: 3% 14%;
+    
+}
+.navbar-brand{
+    padding: 7px;
+}
+.nav-link{
+    padding: 7px;
+}
+.navbar bg-dark navbar-expand-lg navbar-dark{
+    padding : 7px;
+}
+
+.download-button
+{
+    margin: 4% 1%;
+}
+
+.dogimg{
+    max-width: 20%;
+    transform: rotate(25deg);
+    
+    position:absolute;
+}
+#features{
+    
+    padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
+    z-index: 1;
+}
+.feature-box{
+    text-align: center;
+}
+
+p{
+    padding: 4px;
+}
+h3{
+    font-weight: bolder;
+    text-align: center;
+    padding: 3%;
+}
+
+.icons{
+    color: #ef8172;
+}
+.icons:hover{
+    color:#ff4c68;
+}
+#testimonials{
+    
+    
+    text-align: center;
+    background-color:#ff4c68;
+}
+h2{
+    font-weight: bolder;
+}
+.testimonial-image{
+    width: 18%;
+    margin-top: 3%;
+    border-radius: 100%;
+}
+#press{
+    text-align: center;
+    background-color: #ff4c68;
+    margin-bottom: 2%;
+    padding: 3%;
+}
+.press-logo{
+    width: 13%;
+    padding: 1.5%;
+}
+.carousel-item{
+    padding: 7% 15%;
+
+}
+
+.card{
+    
+    width: 25%;
+    margin: 2%;
+    
+}
+.card:hover{
+    color: #ff4c68;
+    text-align: center;
+}
+
+.btn{
+    color: white;
+    align-content: center;
+}
+.btn:hover{
+    color: darkblue;
+}
+
+#pricing{
+    padding: 3%;
+}
+
+#cta{
+    padding-left: 7% 15%;
+    background-color: #ff4c68;
+    text-align: center;
+}
+.cta-head{
+    font-weight: bolder;
+    height: 3.5rem;
+}
+#footer{
+    margin-top: 3%;
+    text-align: center;
+}
+.social-icon{
+    padding:2%;
+}
